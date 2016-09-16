@@ -1,0 +1,87 @@
+.omg{
+    width: 100px;
+    height: auto;
+    display: block;
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid #f4ebe4; /* Параметры рамки */
+}
+
+.image-left{
+    float: left;
+    width: auto;
+    height: 200px;
+
+    margin: 5px;
+    padding: 5px;
+}
+
+.image-center{
+    float: left;
+    width: auto;
+    height: 200px;
+
+    margin: 5px;
+    padding: 5px;
+}
+
+.image-right{
+    float: left;
+    width: auto;
+    height: 200px;
+
+    margin: 5px;
+    padding: 5px;
+}
+
+.image{
+
+    width: auto;
+    height: 200px;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.auto{
+    width:auto;
+}
+
+#head{
+    background-image: url(/img/site/bears.jpg);
+}
+
+#pineappme{
+    color: white;
+}
+
+#subscribe{
+    margin: 20px;
+    margin-top:30px;
+    color:white;
+}
+
+.about{
+    margin: 5px;
+
+}
+
+.black-text{
+    width: auto;
+    height: 100px;
+    background: black;
+    padding: 5px; /* Поля вокруг текста */
+    background: black; /* Цвет фона */
+    margin: 0 auto; /* Выравниваем слой по центру */
+    width: 80%; /* Ширина слоя */
+    opacity: 0.7; /* Значение прозрачности */
+    filter: alpha(Opacity=70); /* Прозрачность в IE */
+}
+
+.omg{
+    color:yellow;
+}
